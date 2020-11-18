@@ -1,0 +1,5 @@
+wordnet
+pros_cons
+reuters
+punkt
+universal_tagset

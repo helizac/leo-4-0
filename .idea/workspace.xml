@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00d593b6-47f5-44a9-a9f7-aa8b6d0ce172" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="3a97a309-c36c-429f-aa48-f1c7831821e4" />
+  <component name="ProjectId" id="1kBv0aMtKaAvuj3xOt6tVwI46Td" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="GdscBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\furka\anaconda3\envs\GdscBot\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dsc" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GdscBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\furka\anaconda3\envs\GdscBot\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\furka\PycharmProjects\GdscBot\dsc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00d593b6-47f5-44a9-a9f7-aa8b6d0ce172" name="Default Changelist" comment="" />
+      <created>1605186576194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605186576194</updated>
+      <workItem from="1605186577963" duration="23504000" />
+      <workItem from="1605216530382" duration="1303000" />
+      <workItem from="1605247181240" duration="17193000" />
+      <workItem from="1605287989503" duration="2384000" />
+      <workItem from="1605294231363" duration="12209000" />
+      <workItem from="1605333726943" duration="881000" />
+      <workItem from="1605334623484" duration="3558000" />
+      <workItem from="1605363923235" duration="1006000" />
+      <workItem from="1605373937913" duration="3940000" />
+      <workItem from="1605378051162" duration="5732000" />
+      <workItem from="1605423321623" duration="2745000" />
+      <workItem from="1605630053430" duration="5796000" />
+      <workItem from="1605636871981" duration="634000" />
+      <workItem from="1605637518696" duration="117000" />
+      <workItem from="1605638008055" duration="2142000" />
+      <workItem from="1605698166920" duration="682000" />
+      <workItem from="1605700021682" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605192268712">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1605192268712" />
+    <state x="524" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605337942614">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="524" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1605337942614" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605698175117">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1605698175117" />
+    <state x="548" y="172" key="FileChooserDialogImpl" timestamp="1605208674451">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605208674451" />
+    <state width="1493" height="276" key="GridCell.Tab.0.bottom" timestamp="1605698970224">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="276" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605698970224" />
+    <state width="1493" height="276" key="GridCell.Tab.0.center" timestamp="1605698970224">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="276" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1605698970224" />
+    <state width="1493" height="276" key="GridCell.Tab.0.left" timestamp="1605698970224">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="276" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1605698970224" />
+    <state width="1493" height="276" key="GridCell.Tab.0.right" timestamp="1605698970224">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="276" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605698970224" />
+    <state x="277" y="62" key="SettingsEditor" timestamp="1605264594441">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1605264594441" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1605196323341">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1605196323341" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GdscBot$main.coverage" NAME="main Coverage Results" MODIFIED="1605424305992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GdscBot$dsc.coverage" NAME="dsc Coverage Results" MODIFIED="1605698184234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
